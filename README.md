@@ -1,3 +1,9 @@
+# For the Notice (third party this thing like that)
+
+## Go to here:
+
+https://github.com/Stormwindsky/LT-MC-Chat-Connector/blob/main/NOTICE.md
+
 # LT-MC-Chat-Connector (LTMCCC)
 
 LT-MC-Chat-Connector (LTMCCC) is an experimental project/mod designed to create a simple chat bridge between **Luanti** (formerly Minetest) and **Minecraft Java Edition**.
