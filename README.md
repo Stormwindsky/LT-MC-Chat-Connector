@@ -7,7 +7,7 @@ This project acts as a lightweight relay, allowing players from both games to co
 
 ## Experimental Modpack
 To see how this project is configured and to experiment with it in a pre-configured environment, you can use the official modpack I created:
-👉 [LTMCCC-Modpack](https://github.com/Stormwindsky/LTMCCC-Modpack)
+👉 [LTMCCC-Modpack(https://github.com/Stormwindsky/LTMCCC-Modpack)]
 
 ## Usage & Security Warning
 - **Target Audience:** This project is intended for **private, experimental, and educational use** only.
