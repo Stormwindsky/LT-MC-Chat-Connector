@@ -2,7 +2,7 @@
 
 ## Go to here:
 
-https://github.com/Stormwindsky/LT-MC-Chat-Connector/blob/main/NOTICE.md
+https://github.com/Stormwindsky/LT-MC-Chat-Connector/blob/main/NOTICES.md
 
 # LT-MC-Chat-Connector (LTMCCC)
 
