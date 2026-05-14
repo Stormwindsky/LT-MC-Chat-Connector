@@ -1,0 +1,12 @@
+{
+  "name": "lt-mc-chat-connector",
+  "version": "1.0.0",
+  "description": "Minecraft relay for LTMCCC",
+  "main": "mc_bridge.js",
+  "author": "Stormwindsky",
+  "license": "CC0-1.0",
+  "dependencies": {
+    "axios": "^1.16.1",
+    "mineflayer": "^4.37.1"
+  }
+}
