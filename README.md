@@ -39,4 +39,4 @@ This tutorial is strictly for **Linux users**. Follow the link below to learn ho
 
 ## License
 Created by **Stormwindsky**.
-This project is licensed under **CC0 1.0 Universal** (Public Domain).
+This project is licensed under **MIT-0** (MIT No Attribution License).

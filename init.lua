@@ -1,6 +1,6 @@
 -- Project: LT-MC-Chat-Connector (LTMCCC)
 -- Created by: Stormwindsky
--- License: CC0 1.0 Universal
+-- License: MIT-0
 
 local http = minetest.request_http_api()
 

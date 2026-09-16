@@ -1,6 +1,6 @@
 # Project: LT-MC-Chat-Connector (LTMCCC)
 # Created by: Stormwindsky
-# License: CC0 1.0 Universal
+# License: MIT-0
 # Description: Central Flask hub for the Luanti-Minecraft bridge
 
 from flask import Flask, request

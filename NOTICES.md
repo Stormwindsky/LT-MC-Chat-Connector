@@ -1,6 +1,6 @@
 # Legal Notices and Dependency Information
 
-This project, **LT-MC-Chat-Connector (LTMCCC)**, is dedicated to the public domain under the CC0 1.0 Universal license. However, it relies on several third-party libraries and environments to function. Below is the list of these dependencies and their respective licenses.
+This project, **LT-MC-Chat-Connector (LTMCCC)**, is dedicated to be free for everyone under the MIT-0 license. However, it relies on several third-party libraries and environments to function. Below is the list of these dependencies and their respective licenses.
 
 ## 1. Python Environment (Back-end)
 The Python part of this project uses a Virtual Environment (**venv**) to manage dependencies.
@@ -23,7 +23,7 @@ The Minecraft bot relay requires the Node.js runtime and uses the following pack
 * **Minecraft Java Edition**: This project is an unofficial tool and is not affiliated with Mojang AB or Microsoft.
 
 ## 4. Automation Scripts
-The `.sh` scripts provided in this repository are original works by **Stormwindsky** and are covered under the project's CC0 1.0 license. They automate the setup of `venv` (Python) and `node_modules` (Node.js).
+The `.sh` scripts provided in this repository are original works by **Stormwindsky** and are covered under the project's MIT-0 license. They automate the setup of `venv` (Python) and `node_modules` (Node.js).
 
 ---
-*Note: All third-party library licenses remain the property of their respective owners. CC0 1.0 applies only to the original code found in this repository.*
+*Note: All third-party library licenses remain the property of their respective owners. MIT-0 applies only to the original code found in this repository.*
